@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAMSComponents", "CAMSComponents\CAMSComponents.csproj", "{BA8CE4F8-B2C2-448A-A61C-B9AF97D27B2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAMSComponents.Tests", "CAMSComponents.Tests\CAMSComponents.Tests.csproj", "{DF6A1D86-1DBC-439D-BFC0-D5C5F4CADCD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA8CE4F8-B2C2-448A-A61C-B9AF97D27B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8CE4F8-B2C2-448A-A61C-B9AF97D27B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8CE4F8-B2C2-448A-A61C-B9AF97D27B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8CE4F8-B2C2-448A-A61C-B9AF97D27B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF6A1D86-1DBC-439D-BFC0-D5C5F4CADCD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF6A1D86-1DBC-439D-BFC0-D5C5F4CADCD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF6A1D86-1DBC-439D-BFC0-D5C5F4CADCD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF6A1D86-1DBC-439D-BFC0-D5C5F4CADCD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

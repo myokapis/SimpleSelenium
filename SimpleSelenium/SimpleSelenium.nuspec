@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Gene Graves</authors>
+    <owners>Gene Graves</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides a domain-specific language for writing Selenium tests</description>
+    <releaseNotes>Initial version</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags></tags>
+  </metadata>
+</package>

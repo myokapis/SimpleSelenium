@@ -1124,7 +1124,7 @@ namespace TestComposer
             e.Handled = true;
             break;
           case Keys.Delete:
-            if (mode == "Ready" && tabControl1.SelectedTab.Name == "tabProject") RemoveProjectItem();
+            //if (mode == "Ready" && tabControl1.SelectedTab.Name == "tabProject") RemoveProjectItem();
             e.Handled = true;
             break;
           default:
